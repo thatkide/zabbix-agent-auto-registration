@@ -44,7 +44,7 @@ We have Cloud Formation Template to install **Zabbix Server & Agent.**
 ![Enable Admin Alerting](https://github.com/Shubhamjain6197/zabbix-agent-auto-registration/blob/main/enable-admin-alerting.png)
 * **Administration** --> **Media Type** --> **MS Teams** --> Add Hook --> teams_endpoint[PLACE WEBHOOK URL HERE] --> Update
 * **Administration** --> **Users** --> **Admin** --> Media --> Add Media --> Type --> MS Teams --> Send To [your team channel Url] --> **Add and Update**
-![Add Media](https://github.platforms.engineering/cognitive-systems/dsit_docs/blob/master/add-media-type.png)
+![Add Media](https://github.com/Shubhamjain6197/zabbix-agent-auto-registration/blob/main/custom-add-media.png)
 
 #### 5. Zabbix Authentication
 
