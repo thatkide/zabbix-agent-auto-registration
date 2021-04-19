@@ -1,6 +1,6 @@
 #Note - This script takes internalelb & metadatastring as input at runtime sh script.sh internal-dns-name free(env)-string
 #!/bin/bash
-internalelb=$1
+internalelb=$1 # or server ip you can provide
 metadatastring=$2
 hostn=$(curl http://169.254.169.254/latest/meta-data/hostname/)
 #hostnamectl set-hostname $hostn-discovery
