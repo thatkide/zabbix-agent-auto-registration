@@ -19,7 +19,7 @@ This document defines Zabbix Agent Auto Registration.
 
 * Take [Script](https://github.com/Shubhamjain6197/zabbix-agent-auto-registration) as per server type
 * Go to serve and execute this script. Script takes two parameters as input.
-  * Internal Load Balanacer End Point
+  * Server Ip
   * String as per environment type (This string will be used for tagging ex - hostname-string)
 * After successful execution of the script you should see agent under Hosts option and Availability as Green.
 
