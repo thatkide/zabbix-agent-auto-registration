@@ -26,3 +26,5 @@ This document defines Zabbix Agent Auto Registration.
 ## Important Links
 
 * [Zabbix Manual](https://www.zabbix.com/documentation/current/manual)
+
+Supported Version 5.0
