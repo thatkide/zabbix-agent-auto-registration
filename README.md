@@ -17,7 +17,7 @@ This document defines Zabbix Agent Auto Registration.
 
 ### 2. Zabbix Agent Installation
 
-* Take [Script](https://github.platforms.engineering/cognitive-systems/mlops/tree/dev/shell_scripts) as per server type
+* Take [Script](https://github.com/Shubhamjain6197/zabbix-agent-auto-registration) as per server type
 * Go to serve and execute this script. Script takes two parameters as input.
   * Internal Load Balanacer End Point
   * String as per environment type (This string will be used for tagging ex - hostname-string)
