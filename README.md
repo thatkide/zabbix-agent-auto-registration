@@ -53,5 +53,3 @@ We have Cloud Formation Template to install **Zabbix Server & Agent.**
 ## Important Links
 
 * [Zabbix Manual](https://www.zabbix.com/documentation/current/manual)
-
-For Questions, Comments and Concerns please contact MLOps Team via slack #breeding-sas-federation [Slack!](https://monslacko.slack.com/archives/C019KJ2KY0J)
