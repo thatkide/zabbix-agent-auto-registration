@@ -2,8 +2,6 @@
 #!/bin/bash
 serverip=$1
 metadatastring=$2
-#hostn=$(curl http://169.254.169.254/latest/meta-data/hostname/) #optional line
-#hostnamectl set-hostname $hostn-$metadatastring #optional line
 rpm -Uvh https://repo.zabbix.com/zabbix/5.2/rhel/7/x86_64/zabbix-release-5.2-1.el7.noarch.rpm
 yum clean all
 yum install zabbix-agent -y
@@ -14,4 +12,3 @@ echo "HostMetadata=$metadatastring" >> /etc/zabbix/zabbix_agentd.conf
 systemctl restart zabbix-agent
 systemctl enable zabbix-agent
 systemctl status zabbix-agent
-#reboot #optional line
