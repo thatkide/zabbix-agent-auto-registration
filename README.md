@@ -13,7 +13,7 @@ This document defines Zabbix Agent Auto Registration.
 * Operations --> **Add host** --> **Add to host groups: Linux servers** --> **Link to templates: Docker, Linux by Zabbix agent**
 * Update
 
-![Agent Auto Registrations](https://github.com/Shubhamjain6197/zabbix-agent-auto-registration/blob/main/img/agent-auto-reg.png)
+![Agent Auto Registrations](https://github.com/Shubhamjain6197/zabbix-agent-auto-registration/blob/main/img/agent-auto-registrations.png)
 
 ### 2. Zabbix Agent Installation
 
