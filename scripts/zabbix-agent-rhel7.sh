@@ -1,4 +1,4 @@
-#Note - This script takes serverip & metadatastring as input at runtime sh script.sh internal-dns-name free(env)-string
+#Note - This script takes serverip & metadatastring as input at runtime sh script.sh serverip free(env)-string
 #!/bin/bash
 serverip=$1
 metadatastring=$2
