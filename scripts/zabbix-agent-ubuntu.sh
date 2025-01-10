@@ -1,4 +1,4 @@
-#Note - This script takes serverip & metadatastring as input at runtime sh script.sh serverip free(env)-string
+#Note - This script takes serverip & metadatastring as input at runtime sh script.sh serverip free(env)-string pskid-string pskval-string
 #!/bin/bash
 serverip=$1 # or server ip you can provide
 metadatastring=$2
